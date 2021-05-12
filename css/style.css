@@ -12,7 +12,7 @@ header
   
 }
 .backtop{
-	background-image: url("/images/top.png");
+	background-image: url("../images/top.png");
     background-repeat: no-repeat;
     width: 120px;
     height: 130px;
@@ -27,7 +27,7 @@ header
 	padding: 30px 35px;
 }
 body{
-    background-image:url("/images/bg.jpg");
+    background-image:url("../images/bg.jpg");
 	font-family: 'Noto Sans TC', sans-serif;
 	font-weight: 600;
     background-size: 100%;
